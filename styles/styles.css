@@ -208,7 +208,7 @@ nav {
 .home {
     height: 16px;
     width: 16px;
-    background-image: url("/images/home-000000.png");
+    background-image: url("/website/images/home-000000.png");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -216,20 +216,20 @@ nav {
 }
 
 [data-theme="dark"] .home {
-    background-image: url("/images/home-FFFFFF.png");
+    background-image: url("/website/images/home-FFFFFF.png");
 }
 
 .mail {
     height: 16px;
     width: 16px;
-    background-image: url("/images/mail-000000.png");
+    background-image: url("/website/images/mail-000000.png");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 [data-theme="dark"] .mail {
-    background-image: url("/images/mail-FFFFFF.png");
+    background-image: url("/website/images/mail-FFFFFF.png");
 }
 
 .preferences {
@@ -243,7 +243,7 @@ nav {
     aspect-ratio: 1 / 1;
     background-color: var(--theme-color-l-00);
     border-radius: var(--border-radius-xxl);
-    background-image: url('/images/sun.svg');
+    background-image: url('/website/images/sun.svg');
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
@@ -262,7 +262,7 @@ nav {
 
 [data-theme="dark"] .newThemeButton {
     background-color: var(--theme-color-l-00);
-    background-image: url('/images/moon.svg');
+    background-image: url('/website/images/moon.svg');
     outline: 1px solid var(--theme-color-l-00);
     border-top: 1px solid var(--theme-color-l-00);
     border-bottom: 1px solid var(--theme-color-d-00);
@@ -437,47 +437,47 @@ nav {
 }
 
 .robot {
-    background-image: url('/images/apple-robot-64.png');
+    background-image: url('/website/images/apple-robot-64.png');
 }
 
 .television {
-    background-image: url('/images/apple-television-64.png');
+    background-image: url('/website/images/apple-television-64.png');
 }
 
 .palette {
-    background-image: url('/images/apple-artist-palette-64.png');
+    background-image: url('/website/images/apple-artist-palette-64.png');
 }
 
 .find-unused-javascript-files {
-    background-image: url('/images/find_unused_javascript_files.png');
+    background-image: url('/website/images/find_unused_javascript_files.png');
 }
 
 .find-unused-css-files {
-    background-image: url('/images/find_unused_css_files.png');
+    background-image: url('/website/images/find_unused_css_files.png');
 }
 
 .discord-navigator {
-    background-image: url('/images/discord_navigator_2.png');
+    background-image: url('/website/images/discord_navigator_2.png');
 }
 
 .poe {
-    background-image: url('/images/poe.jpg');
+    background-image: url('/website/images/poe.jpg');
 }
 
 .rre {
-    background-image: url('/images/rre.jpg');
+    background-image: url('/website/images/rre.jpg');
 }
 
 .rr {
-    background-image: url('/images/rr.png');
+    background-image: url('/website/images/rr.png');
 }
 
 .vv-image {
-    background-image: url('/images/vv.png');
+    background-image: url('/website/images/vv.png');
 }
 
 .pp {
-    background-image: url('/images/pp.png');
+    background-image: url('/website/images/pp.png');
 }
 
 .title-and-topics {
@@ -556,14 +556,14 @@ nav {
 .github {
     height: 1.5rem;
     aspect-ratio: 1 / 1;
-    background-image: url('/images/github-mark.svg');
+    background-image: url('/website/images/github-mark.svg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 [data-theme="dark"] .github {
-    background-image: url("/images/github-mark-white.svg");
+    background-image: url("/website/images/github-mark-white.svg");
 }
 
 footer {
@@ -580,7 +580,7 @@ footer {
 .logo {
     height: 2rem;
     aspect-ratio: 1 / 1;
-    background-image: url('/images/logo-g.png');
+    background-image: url('/website/images/logo-g.png');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
